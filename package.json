@@ -1,0 +1,15 @@
+{
+  "name": "canvasser",
+  "version": "1.0.0",
+  "description": "Canvas Client for determining student results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Hogendorn",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  }
+}
